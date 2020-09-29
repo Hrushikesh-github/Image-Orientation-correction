@@ -1,4 +1,4 @@
-Using ![MIT's Indoor CVPR dataset](#http://web.mit.edu/torralba/www/indoor.html), a deep learning pipeline is created which is able to automatically correct image orientation.
+Using ![MIT's Indoor CVPR dataset](http://web.mit.edu/torralba/www/indoor.html), a deep learning pipeline is created which is able to automatically correct image orientation.
 Check the videos for output
 
 ## Output
