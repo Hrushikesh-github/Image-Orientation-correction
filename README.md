@@ -1,4 +1,4 @@
-Using ![MIT's Indoor CVPR dataset](http://web.mit.edu/torralba/www/indoor.html), a deep learning pipeline is created which is able to automatically correct image orientation.
+Using [MIT's Indoor CVPR dataset](http://web.mit.edu/torralba/www/indoor.html), a deep learning pipeline is created which is able to automatically correct image orientation.
 A labeled dataset was created where images were randomly rotated by {0, 90, 180, 270} degrees
 
 Transfer learning via feature extraction was then applied and the VGG16
@@ -17,7 +17,7 @@ orientation.
 ![hope2](https://user-images.githubusercontent.com/56476887/94584471-4aeafd00-029c-11eb-8397-199a44cfb3ce.gif)
 ![hope](https://user-images.githubusercontent.com/56476887/94584466-4888a300-029c-11eb-9ad8-69746321527b.gif)
 
-this result would have been impossible if our
+This result would have been impossible if
 CNN was truly rotation invariant. CNNs are robust image classification tools and can correctly
 classify images under a variety of orientations. However, the individual filters inside the CNN are
 not rotation invariant.
