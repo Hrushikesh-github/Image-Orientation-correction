@@ -2,5 +2,5 @@ Using MIT's Indoor CVPR dataset, a deep learning pipeline is created which is ab
 Check the videos for output
 
 ## Output
-![hope](https://user-images.githubusercontent.com/56476887/94583731-6d304b00-029b-11eb-8f5d-9f38d4bc8b80.gif)
-![hope2](https://user-images.githubusercontent.com/56476887/94583736-702b3b80-029b-11eb-953a-e3f33b07384c.gif)
+![hope2](https://user-images.githubusercontent.com/56476887/94584471-4aeafd00-029c-11eb-8397-199a44cfb3ce.gif)
+![hope](https://user-images.githubusercontent.com/56476887/94584466-4888a300-029c-11eb-9ad8-69746321527b.gif)
